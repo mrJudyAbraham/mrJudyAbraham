@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrJudyAbraham
 - 👀 I’m interested in reverse engineering and pentesting
-- 🌱 I’m currently researching on various kinds of malwares
+- 🌱 I’m currently researching on various kinds of computer malwares
 - 💞️ I’m looking to collaborate on pentesting
 - 📫 You can reach me at mrjudyabraham@gmail.com
 
