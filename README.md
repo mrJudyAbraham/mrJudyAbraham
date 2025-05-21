@@ -39,9 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrJudyAbraham&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
----
+<!-- --- -->
 
-### 📌 Pinned Repositories
+<!-- ### 📌 Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/mrJudyAbraham/EnIgMA">
@@ -50,7 +50,7 @@
   <a href="https://github.com/mrJudyAbraham/KnockCode">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrJudyAbraham&repo=KnockCode&theme=radical" />
   </a>
-</p>
+</p> -->
 
 ---
 
