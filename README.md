@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Judy Abraham</h1>
-<h3 align="center">Cybersecurity Enthusiast | Reverse Engineer | Malware Analyst</h3>
+<h3 align="center">Creator | Hacker | Speaker</h3>
 
 <p align="center">
   <a href="https://mrjudyabraham.github.io/LetMeExplainMyself/" target="_blank">
@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-- 🔍 Passionate about **reverse engineering** and **penetration testing**
-- 🐛 Currently researching various types of **computer malware**
-- 🤝 Open to collaborations on **pentesting projects** and **security research**
+- 🔍 Passionate about **Developing** and **Hacking**
+- 🐛 Currently researching various types of **Face-recognition Algorithms**, **Computer Malware**, **AI Models**, **Quantum Computers**, **Cryptographic Algorithms**
+- 🤝 Open to collaborations on **New Ideas** and **Research**
 - 📫 Reach me at: [mrjudyabraham@gmail.com](mailto:mrjudyabraham@gmail.com)
 
 ---
@@ -28,7 +28,7 @@
 
 - **Languages**: Python, Bash, C/C++
 - **Tools**: IDA Pro, Ghidra, Wireshark, Burp Suite, Metasploit
-- **Operating Systems**: Linux (Kali, Parrot), Windows
+- **Operating Systems**: Linux (Debian & Arch), Windows
 - **Other**: Malware Analysis, Network Security, Vulnerability Assessment
 
 ---
